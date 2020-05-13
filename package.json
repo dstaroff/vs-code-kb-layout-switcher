@@ -4,6 +4,7 @@
     "description": "Changes keyboard layout of selected text",
     "version": "0.0.1",
     "publisher": "kleach",
+    "repository": { "url": "https://github.com/kleach/vs-code-kbfuckup" },
     "engines": {
         "vscode": "^1.32.0"
     },
@@ -15,12 +16,10 @@
     ],
     "main": "./out/extension",
     "contributes": {
-        "commands": [
-            {
-                "command": "extension.kbfuckup",
-                "title": "Fuck"
-            }
-        ]
+        "commands": [{
+            "command": "extension.kbfuckup",
+            "title": "Fuck"
+        }]
     },
     "scripts": {
         "vscode:prepublish": "npm run compile",
