@@ -89,3 +89,4 @@ typings/
 
 *.vsix
 /out
+/.vscode-test

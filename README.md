@@ -1,5 +1,23 @@
-# KB Fuck Up
+# Keyboard layout switcher
 
-VS Code extension to provide keyboard layout change on selected text if you're fucked it up
+VS Code extension to provide two-way keyboard layout change on selected text.
 
-Now only in one-way from English to Russian.
+## How-to
+
+1. Select text written in wrong keyboard layout.
+2. Press `Ctrl+Shift+P` (`Cmd+Shift+P` on Mac).
+3. Write `Switch keyboard layout`.
+4. Press `Enter`.
+5. Done.
+
+## Supported language pairs
+
+| First language | Second language |
+| :------------: | :-------------: |
+|    Russian     |     English     |
+
+## TODO: Supported language pairs
+
+| First language | Second language |
+| :------------: | :-------------: |
+|   Ukrainian    |     English     |

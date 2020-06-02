@@ -1,12 +1,18 @@
 {
 	"compilerOptions": {
 		"module": "commonjs",
-		"target": "es2019",
-		"lib": ["ES2019"],
+		"target": "es6",
 		"outDir": "out",
+		"lib": [
+			"es6"
+		],
 		"sourceMap": true,
+		"rootDir": "src",
 		"strict": true,
-		"rootDir": "src"
+		"noUnusedParameters": true
 	},
-	"exclude": ["node_modules", ".vscode-test"]
+	"exclude": [
+		"node_modules",
+		".vscode-test"
+	]
 }
