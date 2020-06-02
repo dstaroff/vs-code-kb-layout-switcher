@@ -3,7 +3,7 @@
     "displayName": "Keyboard layout switcher",
     "description": "Changes keyboard layout of selected text",
     "version": "0.1.1",
-    "publisher": "Dmitrii Starov",
+    "publisher": "kleach",
     "repository": {
         "url": "https://github.com/kleach/vs-code-kb-layout-switcher"
     },

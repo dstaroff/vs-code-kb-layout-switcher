@@ -26,5 +26,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extension name.
 - Moved `TSLint` -> `ESLint`.
 
+## [0.1.2] - 2020-06-02
+
+### Changed
+
+- Publisher name.
+
 [0.0.1]: https://github.com/kleach/vs-code-kb-layout-switcher/commit/2dbfe575dc10c1fdf47272e24e6755c5c6beb5b4
 [0.1.1]: https://github.com/kleach/vs-code-kb-layout-switcher/compare/v0.0.1...v0.1.1
+[0.1.2]: https://github.com/kleach/vs-code-kb-layout-switcher/compare/v0.1.1...v0.1.2
