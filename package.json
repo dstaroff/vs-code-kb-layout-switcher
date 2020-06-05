@@ -9,6 +9,11 @@
         "theme": "dark"
     },
     "icon": "img/logo.png",
+    "badges": [{
+        "url": "https://travis-ci.com/kleach/vs-code-kb-layout-switcher.svg?branch=master",
+        "href": "https://travis-ci.com/kleach/vs-code-kb-layout-switcher",
+        "description": "Travis-CI build"
+    }],
     "repository": {
         "url": "https://github.com/kleach/vs-code-kb-layout-switcher"
     },
@@ -30,12 +35,10 @@
     ],
     "main": "./out/extension",
     "contributes": {
-        "commands": [
-            {
-                "command": "kb-layout-switcher.switch",
-                "title": "Switch keyboard layout"
-            }
-        ]
+        "commands": [{
+            "command": "kb-layout-switcher.switch",
+            "title": "Switch keyboard layout"
+        }]
     },
     "scripts": {
         "vscode:prepublish": "yarn compile",

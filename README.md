@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.com/kleach/vs-code-kb-layout-switcher.svg?branch=master)](https://travis-ci.com/kleach/vs-code-kb-layout-switcher)
+
+---
+
 # Keyboard layout switcher
 
 VS Code extension to provide two-way keyboard layout change on selected text.
