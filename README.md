@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.com/kleach/vs-code-kb-layout-switcher.svg?branch=master)](https://travis-ci.com/kleach/vs-code-kb-layout-switcher)
+[![Build Status](https://img.shields.io/travis/com/kleach/vs-code-kb-layout-switcher?logo=travis&style=for-the-badge)](https://travis-ci.com/kleach/vs-code-kb-layout-switcher)
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/kleach.kb-layout-switcher?color=brightgreen&logo=visual-studio-code&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=kleach.kb-layout-switcher)
+
 
 ---
 
